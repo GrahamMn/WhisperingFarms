@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92006526a565dd44bab451738a29b517
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GroundTilemap: {instanceID: 0}
+  - soilTilemap: {instanceID: 0}
+  - blockingTilemap: {instanceID: 0}
+  - soilTile: {fileID: 11400000, guid: 3439e3d1337b3334bb5debfaf1aaf6a1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
